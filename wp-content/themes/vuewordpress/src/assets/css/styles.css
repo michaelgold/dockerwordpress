@@ -1,0 +1,7 @@
+/* Don't want tailwindcss?
+   Simply remove the import
+   statement below and write
+   your CSS as normal! */
+
+@import './_tailwind';
+@import './components/progress-bar';
