@@ -1,2 +1,5 @@
 # DB folder
 db_data/
+
+# OSX garbage
+.DS_Store
