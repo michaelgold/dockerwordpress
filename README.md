@@ -21,5 +21,8 @@ In the terninal type:
 This will run a Webpack server to enable hot-reloading
 
 In a text editor, modify components in the path `app/src/components`
-For example, changing the Vue file `app/src/components/Home.vue` will modify the home page.
+
+For example, changing the Vue file `app/src/components/Home.vue` will modify 
+the home page.
+
 Note: saving the file in the text editor should automtically update the wordpress site running at http://localhost:8000
