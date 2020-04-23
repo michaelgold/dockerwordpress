@@ -4,12 +4,5 @@ db_data/
 # OSX garbage
 .DS_Store
 
-# defaul wp plugins and themes
-wp-content/plugins/akismet/
-wp-content/plugins/hello.php
-wp-content/themes/twentynineteen
-wp-content/themes/twentyseventeen
-wp-content/themes/twentytwenty
-wp-content/index.php
-wp-content/themes/index.php
-wp-content/plugins/index.php
+# NodeJS
+node_modules/
