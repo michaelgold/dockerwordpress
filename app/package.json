@@ -19,7 +19,9 @@
     "cross-env": "^3.2.4",
     "css-loader": "^3.4.2",
     "cssnano": "^4.1.10",
+    "deepmerge": "^4.2.2",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "fibers": "^5.0.0",
     "file-loader": "^1.1.11",
     "normalize.css": "^8.0.0",
     "object-path": "^0.11.4",
@@ -33,6 +35,8 @@
     "postcss-nested": "^3.0.0",
     "postcss-reporter": "^5.0.0",
     "postcss-sorting": "^3.1.0",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
     "style-loader": "^0.23.1",
     "stylelint": "^13.0.0",
     "stylelint-webpack-plugin": "^1.2.1",
@@ -53,8 +57,11 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
+    "caniuse-lite": "^1.0.30001048",
     "stylelint-order": "^4.0.0",
     "tailwindcss": "^1.1.4",
-    "vue": "^2.6"
+    "vue": "^2.6",
+    "vue-style-loader": "^4.1.2",
+    "vuetify": "^2.2.26"
   }
 }
