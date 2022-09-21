@@ -62,7 +62,7 @@
     "tailwindcss": "^1.1.4",
     "vue": "^2.6",
     "vue-style-loader": "^4.1.2",
-    "vuetify": "^2.2.26",
+    "vuetify": "^2.6.10",
     "yarn": "^1.22.4"
   }
 }
